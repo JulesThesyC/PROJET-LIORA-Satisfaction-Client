@@ -1,0 +1,40 @@
+# Entreprises ciblées — Trustpilot France
+theme_logistique: &logistique logistique
+theme_ecommerce: &ecommerce ecommerce
+theme_automobile: &automobile automobile
+
+companies:
+  - key: amazon_fr
+    name: Amazon FR
+    trustpilot_slug: www.amazon.fr
+    domain: www.amazon.fr
+    theme: *ecommerce
+    profile_url: https://fr.trustpilot.com/review/www.amazon.fr
+
+  - key: chronopost_fr
+    name: Chronopost FR
+    trustpilot_slug: www.chronopost.fr
+    domain: www.chronopost.fr
+    theme: *logistique
+    profile_url: https://fr.trustpilot.com/review/www.chronopost.fr
+
+  - key: tesla_fr
+    name: Tesla FR
+    trustpilot_slug: tesla.com
+    domain: tesla.com
+    theme: *automobile
+    profile_url: https://fr.trustpilot.com/review/tesla.com
+
+  - key: temu_fr
+    name: Temu FR
+    trustpilot_slug: temu.com
+    domain: temu.com
+    theme: *ecommerce
+    profile_url: https://fr.trustpilot.com/review/temu.com
+
+# Catégorie Trustpilot (exemple du cahier des charges — supply chain / services)
+category_urls:
+  - name: shopping
+    url: https://fr.trustpilot.com/categories/shopping
+  - name: shipping_logistics
+    url: https://fr.trustpilot.com/categories/shipping_logistics

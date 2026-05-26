@@ -121,9 +121,8 @@ POST /monitoring/drift
 
 **Profil LinkedIn** — **[Jules COLONAS](https://www.linkedin.com/in/julescolonas)**
 
-**[JulesThesyC](https://github.com/JulesThesyC)** — Data Engineering & Science des données · France
+**[JulesThesyC](https://github.com/JulesThesyC)** — Data Engineer
 
-Autres projets : [Portfolio](https://github.com/JulesThesyC/Portfolio) · [Surveillance IoT](https://github.com/JulesThesyC/Surveillance-IoT) · [Recommandation Streaming](https://github.com/JulesThesyC/Recommandation-Streaming)
 
 ## Licence & usage
 

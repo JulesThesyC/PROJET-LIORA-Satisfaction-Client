@@ -117,7 +117,8 @@ POST /monitoring/drift
 ```
 
 ## Auteur
-
+**Auteur** — Jules COLONAS
+**Profil LinkedIn** — **[Jules COLONAS](https://www.linkedin.com/in/julescolonas)**
 **[JulesThesyC](https://github.com/JulesThesyC)** — Data Engineering & Science des données · France
 
 Autres projets : [Portfolio](https://github.com/JulesThesyC/Portfolio) · [Surveillance IoT](https://github.com/JulesThesyC/Surveillance-IoT) · [Recommandation Streaming](https://github.com/JulesThesyC/Recommandation-Streaming)
